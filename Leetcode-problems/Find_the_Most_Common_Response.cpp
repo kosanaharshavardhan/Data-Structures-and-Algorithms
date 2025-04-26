@@ -1,3 +1,5 @@
+#include<iostream>
+using namespace std;
 class Solution {
     public:
         string findCommonResponse(vector<vector<string>>& responses) {
@@ -50,4 +52,4 @@ class Solution {
             }
             return ans;
         }
-    };©leetcode
+     };//©leetcode
