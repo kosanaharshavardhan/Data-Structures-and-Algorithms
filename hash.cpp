@@ -13,7 +13,7 @@ int main(){
             break;
         else{
             mp[ele]++;
-            cout<<"element stored and updated it cnt";
+            cout<<"element stored and updated it cnt: ";
         }
     }
     cout<<"Here Goes the map:"<<"\n";
