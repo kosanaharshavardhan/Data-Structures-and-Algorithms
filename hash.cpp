@@ -7,6 +7,7 @@ int main(){
     cout<<endl<<"Note: give 0 as a input to print the map";
     int ele;
     while(1){
+        cin>>ele;
         if(ele==0)
             break;
         else{
