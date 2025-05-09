@@ -17,7 +17,7 @@ int main(){
         }
     }
     cout<<"Here Goes the map:"<<"\n";
-        cout<<"Element"<<"->"<<"frequency";
+        cout<<"Element"<<"->"<<"frequency"<<"\n";
     for(auto i=mp.begin();i!=mp.end();i++){
         cout<<i->first<<"->"<<i->second<<endl;
     }
